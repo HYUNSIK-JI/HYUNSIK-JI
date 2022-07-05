@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 ### Usage
 
 ```html
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={wlgustlra})](https://solved.ac/{wlgustlra})
-```
-
+https://solved.ac/profile/wlgustlra
 ## Mazassumnida v.mini
 
 ### Usage
