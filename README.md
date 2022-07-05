@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://i.ibb.co/Vg2NcZH/chrome-VBCSLd8v-HF.png" alt="chrome-VBCSLd8v-HF" border="0">
+
+
+## Mazassumnida Pastel
+
+### Usage
+
+```html
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={wlgustlra})](https://solved.ac/{wlgustlra})
+```
+
+## Mazassumnida v.mini
+
+### Usage
