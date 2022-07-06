@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 
 <h2>🎮 Stats </h2>
 
-<div sytle="text-align:center">
-![HYUNSIK-JI GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI &show_icons=true&theme=tokyonight)
-</div>
+![HYUNSIK-JI github stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI&show_icons=true)
+[![HYUNSIK-JI github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNSIK-JIID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HYUNSIK-JI)
