@@ -22,8 +22,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=Pythont&logoColor=white"/>
 </div>
 
-<div>
+<h2>🥇algorithm</h2>
+
+<div sytle="text-align:center">
   <img src="http://mazandi.herokuapp.com/api?handle=wlgustlra&theme=dark"/>
 </div>
 
-![HYUNSIK-JI GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI&show_icons=true&theme=tokyonight) 
+<h2>🎮 Stats </h2>
+
+<div sytle="text-align:center">
+![HYUNSIK-JI GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI &show_icons=true&theme=tokyonight)
+</div>
