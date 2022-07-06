@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 -->
 ![HYUNSIK-JI GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI&show_icons=true&theme=tokyonight) 
 <div>
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra)](https://solved.ac/wlgustlra)
-  <img src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
-
+  <img src="http://mazandi.herokuapp.com/api?handle=wlgustlra&theme=dark"/>
 </div>
