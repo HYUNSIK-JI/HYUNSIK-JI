@@ -13,7 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HYUNSIK-JI GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI&show_icons=true&theme=tokyonight) 
+<h2>💻Study</h2>
+    
+<div style="text-align:center">    
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-orange?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=Pythont&logoColor=white"/>
+</div>
+
 <div>
   <img src="http://mazandi.herokuapp.com/api?handle=wlgustlra&theme=dark"/>
 </div>
+
+![HYUNSIK-JI GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI&show_icons=true&theme=tokyonight) 
