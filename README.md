@@ -41,7 +41,7 @@ all_subtier = ['V', "IV", 'III', 'II', 'I']
 
 // Solved AC 데이터 가져오기
 async function getSolvedacUserData() {
-    let response = await fetch("https://solved.ac/api/v3/user/show?handle=dipokal", {
+    let response = await fetch("https://solved.ac/api/v3/user/show?handle=wlgustlra", {
         method: "GET",
         headers: {
             "Content-Type": "application/json"
