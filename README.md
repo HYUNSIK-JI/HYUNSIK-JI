@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <h2>🥇algorithm</h2>
 
 <div sytle="text-align:center">
-  <img src="http://mazandi.herokuapp.com/api?handle=wlgustlra&theme=dark"/>
 </div>
 
 <h2>🎮 Stats </h2>
