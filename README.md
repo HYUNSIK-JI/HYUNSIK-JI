@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h2>🥇algorithm</h2>
 
 <div sytle="text-align:center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra)](https://solved.ac/wlgustlra/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra)](https://solved.ac/wlgustlra/)
 </div>
 
 <h2>🎮 Stats </h2>
