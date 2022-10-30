@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <h2>🥇algorithm</h2>
 
 <div sytle="text-align:center">
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra)](https://solved.ac/wlgustlra/)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnpfldyd&count_bg=%23FF4040&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    [![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra)](https://solved.ac/wlgustlra/)  
 </div>
 
 <h2>🎮 Stats </h2>
