@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring5-green?style=flat-square&logo=Spring5t&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-red?style=flat-square&logo=Pythont&logoColor=white"/>
 </div>
-
+ 
 <h2>🥇algorithm</h2>
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra">
