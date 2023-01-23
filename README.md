@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-orange?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=Pythont&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-blue?style=flat-square&logo=Unityt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring5-green?style=flat-square&logo=Spring5t&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-red?style=flat-square&logo=Pythont&logoColor=white"/>
