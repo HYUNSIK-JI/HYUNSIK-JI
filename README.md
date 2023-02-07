@@ -27,9 +27,14 @@ Here are some ideas to get you started:
 </div>
  
 <h2>🥇algorithm</h2>
-
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra">
-
+<div>
+    <h2>Python</h2>
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlra">
+</div>
+<div>
+    <h2>Java</h2>
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgustlraaa">
+</div>
 <h2>🎮 Stats </h2>
 
 ![HYUNSIK-JI github stats](https://github-readme-stats.vercel.app/api?username=HYUNSIK-JI&show_icons=true)
